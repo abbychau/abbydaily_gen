@@ -1,0 +1,10 @@
+1. https://api.github.com/users/abbychau/events > json
+2. https://www.plurk.com/abbychau.xml > rss
+3. https://realblog.zkiz.com/rssdata/4.xml > rss
+4. https://www.youtube.com/feeds/videos.xml?channel_id=UCwSbzL_4eLhZzi_UUUNlklg > rss
+5. https://feeds.soundcloud.com/users/soundcloud:users:16834187/sounds.rss > rss
+
+plan:
+1. setup cursor (plain text file : source_id + last datetime > restful GET api)
+2. Github action fetch and parse and compare
+3. github action send email
