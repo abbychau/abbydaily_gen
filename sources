@@ -4,6 +4,10 @@
 4. https://www.youtube.com/feeds/videos.xml?channel_id=UCwSbzL_4eLhZzi_UUUNlklg > rss
 5. https://feeds.soundcloud.com/users/soundcloud:users:16834187/sounds.rss > rss
 
+login required:
+1. pixiv: https://gist.github.com/manse/4006178
+
+
 plan:
 1. setup cursor (plain text file : source_id + last datetime > restful GET api)
 2. Github action fetch and parse and compare
