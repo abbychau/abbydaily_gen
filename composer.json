@@ -1,0 +1,10 @@
+{
+    "name": "abby/abbydaily_gen",
+    "authors": [
+        {
+            "name": "abby",
+            "email": "abby@kabu.com"
+        }
+    ],
+    "require": {}
+}
